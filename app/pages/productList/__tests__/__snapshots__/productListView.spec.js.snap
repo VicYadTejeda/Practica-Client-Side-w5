@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`La view de ProductList 1) Renderiza 1`] = `
+<DocumentFragment>
+  <button>
+     Más productos 
+  </button>
+  <p>
+    0
+  </p>
+  <ul>
+    <li
+      style="list-style-type: none;"
+    >
+      <h4>
+        Samsung
+      </h4>
+      <a
+        href="https://www.mercadolibre.com.ar/samsung-galaxy-m12-5000-mah-dual-sim-128-gb-black-4-gb-ram/p/MLA18192280"
+        target="_blank"
+      >
+        <img
+          alt="Samsung"
+          class=""
+          decoding="async"
+          src="http://http2.mlstatic.com/D_838903-MLA46771080799_072021-I.jpg"
+        />
+      </a>
+      <p>
+         precio: 
+      </p>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

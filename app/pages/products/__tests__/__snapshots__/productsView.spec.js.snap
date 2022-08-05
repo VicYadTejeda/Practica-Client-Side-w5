@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`La view de Products Ejercicio 1 1) Renderiza 1`] = `
+<DocumentFragment>
+  <h2 />
+  <ul>
+    <li
+      style="list-style-type: none;"
+    >
+      <h4>
+        Samsung
+      </h4>
+      <a
+        href="https://www.mercadolibre.com.ar/samsung-galaxy-m12-5000-mah-dual-sim-128-gb-black-4-gb-ram/p/MLA18192280"
+        target="_blank"
+      >
+        <img
+          alt="Samsung"
+          class=""
+          decoding="async"
+          src="http://http2.mlstatic.com/D_838903-MLA46771080799_072021-I.jpg"
+        />
+      </a>
+    </li>
+  </ul>
+  <img
+    alt="image-DEmo"
+    class=""
+    decoding="async"
+    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+  />
+</DocumentFragment>
+`;
